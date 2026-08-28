@@ -47,7 +47,7 @@
 <table>
 <tr>
 <td width="140" align="center">
-<img src="YOUR_PHOTO_URL_HERE" width="120" height="120" style="border-radius:6px; border:1px solid #333;"/>
+<img src="WhatsApp Image 2026-08-15 at 6.34.05 PM.jpeg" width="120" height="120" style="border-radius:6px; border:1px solid #333;"/>
 </td>
 <td>
 
