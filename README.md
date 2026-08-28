@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iOTAiIGhlaWdodD0iOTAiIHZpZXdCb3g9IjAgMCAxMDAgMTAwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogIDxkZWZzPgogICAgPGZpbHRlciBpZD0iZ2xvdyIgeD0iLTUwJSIgeT0iLTUwJSIgd2lkdGg9IjIwMCUiIGhlaWdodD0iMjAwJSI+CiAgICAgIDxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjMiIHJlc3VsdD0iYmx1ciIvPgogICAgICA8ZmVNZXJnZT4KICAgICAgICA8ZmVNZXJnZU5vZGUgaW49ImJsdXIiLz4KICAgICAgICA8ZmVNZXJnZU5vZGUgaW49IlNvdXJjZUdyYXBoaWMiLz4KICAgICAgPC9mZU1lcmdlPgogICAgPC9maWx0ZXI+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiBmaWxsPSIjMGQxMTE3Ii8+CiAgPGcgZmlsdGVyPSJ1cmwoI2dsb3cpIj4KICAgIDxjaXJjbGUgY3g9IjUwIiBjeT0iNTAiIHI9IjQ2IiBmaWxsPSIjMGQxMTE3IiBzdHJva2U9IiMwMEU1RkYiIHN0cm9rZS13aWR0aD0iMiIvPgogICAgPGNpcmNsZSBjeD0iNTAiIGN5PSI1MCIgcj0iMzQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzAwQjhEOSIgc3Ryb2tlLXdpZHRoPSIzIi8+CiAgICA8Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSIyMiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDBFNUZGIiBzdHJva2Utd2lkdGg9IjIiLz4KICAgIDxnIHN0cm9rZT0iIzAwRTVGRiIgc3Ryb2tlLXdpZHRoPSIzIj4KICAgICAgPGxpbmUgeDE9IjUwIiB5MT0iMTYiIHgyPSI1MCIgeTI9IjI2Ii8+CiAgICAgIDxsaW5lIHgxPSI1MCIgeTE9Ijc0IiB4Mj0iNTAiIHkyPSI4NCIvPgogICAgICA8bGluZSB4MT0iMTYiIHkxPSI1MCIgeDI9IjI2IiB5Mj0iNTAiLz4KICAgICAgPGxpbmUgeDE9Ijc0IiB5MT0iNTAiIHgyPSI4NCIgeTI9IjUwIi8+CiAgICAgIDxsaW5lIHgxPSIyNyIgeTE9IjI3IiB4Mj0iMzQiIHkyPSIzNCIvPgogICAgICA8bGluZSB4MT0iNjYiIHkxPSI2NiIgeDI9IjczIiB5Mj0iNzMiLz4KICAgICAgPGxpbmUgeDE9IjczIiB5MT0iMjciIHgyPSI2NiIgeTI9IjM0Ii8+CiAgICAgIDxsaW5lIHgxPSIzNCIgeTE9IjY2IiB4Mj0iMjciIHkyPSI3MyIvPgogICAgPC9nPgogICAgPGNpcmNsZSBjeD0iNTAiIGN5PSI1MCIgcj0iMTAiIGZpbGw9IiNFNkZGRkYiLz4KICAgIDxjaXJjbGUgY3g9IjUwIiBjeT0iNTAiIHI9IjUiIGZpbGw9IiNmZmZmZmYiLz4KICA8L2c+Cjwvc3ZnPgo=" width="90" alt="arc reactor"/>
+<img src="./arc-reactor.png" width="90" alt="arc reactor"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:111827,100:00b8d9&height=190&section=header&text=SAURABH%20LOKHANDE&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%C2%B7%20Full-Stack%20%C2%B7%20AI%2FML&descAlignY=62&descSize=18&descColor=9CA3AF"/>
 
@@ -58,6 +58,19 @@ Currently learning
 * 🚀 Selected for next round at IIT Bombay — Eureka!
 * 💻 9 Hackathons Participated
 * 🚀 3 Startup Pitch Competitions Participated
+
+---
+
+## Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SaurabhLokhande2408&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=00B8D9&icon_color=00B8D9&text_color=C9D1D9"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=SaurabhLokhande2408&hide_border=true&background=0D1117&ring=00B8D9&fire=00B8D9&currStreakLabel=00B8D9"/>
+
+<img src="https://leetcard.jacoblin.cool/Saurabh_Lokhande?theme=dark&font=JetBrains%20Mono&ext=heatmap"/>
+
+</div>
 
 ---
 
