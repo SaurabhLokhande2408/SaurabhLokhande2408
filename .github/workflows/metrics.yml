@@ -1,0 +1,23 @@
+name: Generate Metrics
+ 
+on:
+  schedule:
+    - cron: "0 0 * * *"   # once a day
+  workflow_dispatch:        # lets you trigger it manually too
+ 
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          committer_branch: metrics
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Kolkata
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+ 
