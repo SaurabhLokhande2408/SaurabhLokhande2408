@@ -1,8 +1,26 @@
 <div align="center">
 
+<svg width="90" height="90" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" style="filter: drop-shadow(0 0 10px #00E5FF) drop-shadow(0 0 22px #00B8D9);">
+  <circle cx="50" cy="50" r="46" fill="#0d1117" stroke="#00E5FF" stroke-width="2"/>
+  <circle cx="50" cy="50" r="34" fill="none" stroke="#00B8D9" stroke-width="3"/>
+  <circle cx="50" cy="50" r="22" fill="none" stroke="#00E5FF" stroke-width="2"/>
+  <g stroke="#00E5FF" stroke-width="3">
+    <line x1="50" y1="16" x2="50" y2="26"/>
+    <line x1="50" y1="74" x2="50" y2="84"/>
+    <line x1="16" y1="50" x2="26" y2="50"/>
+    <line x1="74" y1="50" x2="84" y2="50"/>
+    <line x1="27" y1="27" x2="34" y2="34"/>
+    <line x1="66" y1="66" x2="73" y2="73"/>
+    <line x1="73" y1="27" x2="66" y2="34"/>
+    <line x1="34" y1="66" x2="27" y2="73"/>
+  </g>
+  <circle cx="50" cy="50" r="10" fill="#E6FFFF"/>
+  <circle cx="50" cy="50" r="5" fill="#ffffff"/>
+</svg>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:111827,100:00b8d9&height=190&section=header&text=SAURABH%20LOKHANDE&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%C2%B7%20Full-Stack%20%C2%B7%20AI%2FML&descAlignY=62&descSize=18&descColor=9CA3AF"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=1200&color=00B8D9&center=true&vCenter=true&width=700&lines=Backend+%7C+Full-Stack+%7C+AI%2FML;Building+systems+that+solve+real+problems.;Learning+DSA%2C+Cloud+%26+System+Design" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=1200&color=00B8D9&center=true&vCenter=true&width=700&lines=Backend+%7C+Full-Stack+%7C+AI%2FML;Exploring+AI%2FML+at+depth.;Building+%26+learning%2C+one+system+at+a+time." alt="Typing SVG"/>
 
 <br>
 
@@ -20,157 +38,46 @@
 
 ---
 
-## `$ whoami`
+## About Me
 
-I'm **Saurabh Lokhande**, a Computer Science Engineering student focused on building reliable software systems and exploring **AI/ML**.
+I'm **Saurabh Lokhande**, a **2nd-year Computer Science Engineering student** exploring **AI/ML in depth**.
 
-My current focus is around **backend engineering, full-stack development, system integration, and the foundations required to build scalable applications.**
+Started with full-stack and backend development, now moving deeper into ML fundamentals and the basics behind them.
 
 ```text
 Currently learning
-├── Data Structures & Algorithms
+├── Data Structures & Algorithms (just started)
 ├── Machine Learning
-├── Cloud & DevOps
-└── System Design
-
-Currently building
-├── Backend APIs
-├── Full-stack applications
-└── ML-powered systems
+└── RAG
 ```
 
 ---
 
-## `$ tech --stack`
+## Tech Stack
 
-### Languages
+**Languages:** Python · C++ · Java (Basics → OOP)
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript&theme=dark"/>
-</p>
+**Backend:** FastAPI · JWT (using FastAPI) · REST APIs · SQLAlchemy
 
-### Backend & APIs
+**Frontend:** React
 
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,postgres&theme=dark"/>
-</p>
+**Data / ML:** NumPy · Pandas · Matplotlib · scikit-learn
 
-`FastAPI` · `REST APIs` · `JWT` · `SQLAlchemy` · `PostgreSQL`
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark"/>
-</p>
-
-### Data & Machine Learning
-
-`NumPy` · `Pandas` · `Matplotlib` · `scikit-learn` · `OpenCV`
-
-### DevOps & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode&theme=dark"/>
-</p>
-
-`Git` · `GitHub Actions` · `Docker` · `Linux`
+**Database:** PostgreSQL
 
 ---
 
-## `$ projects --featured`
+## Achievements
 
-### 🔹 FraudShield
-
-**Fraud detection platform for financial applications**
-
-Built as a fintech hackathon project with a focus on secure backend architecture and ML-based fraud detection.
-
-**Tech:** `Python` `FastAPI` `PostgreSQL` `JWT` `Machine Learning`
-
-* JWT-based authentication
-* REST API architecture
-* PostgreSQL database integration
-* ML-powered fraud detection pipeline
-* Designed for financial transaction analysis
+* 🏆 2nd Prize — Hult Prize, On Campus
+* 🥉 3rd Place — Eureka! Startup Pitch Competition, On Campus
+* 🚀 Selected for next round at IIT Bombay — Eureka!
+* 💻 9 Hackathons Participated
+* 🚀 3 Startup Pitch Competitions Participated
 
 ---
 
-### 🔹 Hoops Forecast
-
-**Machine learning model for NBA player scoring prediction**
-
-A predictive analytics project using historical NBA player statistics across multiple seasons.
-
-**Tech:** `Python` `Pandas` `NumPy` `scikit-learn`
-
-* Feature engineering from historical player data
-* Regression-based prediction pipeline
-* **R²: 0.74**
-* Evaluated using MAE, MSE and RMSE
-
----
-
-### 🔹 CodeUtil
-
-**Developer-focused full-stack platform**
-
-Built with Team Synergy, focusing on API integration, authentication and frontend/backend architecture.
-
-**Tech:** `React` `FastAPI` `PostgreSQL` `Python`
-
-* Full-stack application development
-* Backend API integration
-* Authentication workflows
-* Collaborative Git development
-* Frontend/backend system integration
-
----
-
-## `$ currently --working`
-
-| Area                  | Focus                                                    |
-| --------------------- | -------------------------------------------------------- |
-| 🤖 **AI / ML**        | Machine learning fundamentals & practical applications   |
-| 🧠 **DSA**            | Problem solving and competitive programming fundamentals |
-| ☁️ **Cloud**          | AWS fundamentals & deployment                            |
-| ⚙️ **Backend**        | API architecture, databases & authentication             |
-| 🏗️ **System Design** | Designing scalable software systems                      |
-| 🔎 **RAG**            | Exploring retrieval-augmented AI systems                 |
-
----
-
-## `$ achievements`
-
-* 🏆 **2nd Prize — Hult Prize on Campus**
-* 🏅 **5th Prize — Hackathon**
-* 🏅 **5th Prize — Hackathon**
-* 💻 **8+ Hackathons Participated**
-* 🚀 Building projects with **Team Synergy**
-* 🌐 Experience building and deploying full-stack applications
-
----
-
-## `$ github --stats`
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SaurabhLokhande2408&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00B8D9&icon_color=00B8D9&text_color=C9D1D9"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SaurabhLokhande2408&theme=dark&hide_border=true&background=0D1117&ring=00B8D9&fire=00B8D9&currStreakLabel=00B8D9"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SaurabhLokhande2408&bg_color=0D1117&color=00B8D9&line=00B8D9&point=FFFFFF&hide_border=true"/>
-
-</div>
-
----
-
-## `$ connect`
+## Connect
 
 <div align="center">
 
