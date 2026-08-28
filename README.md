@@ -77,18 +77,41 @@ $ cat about.txt
 
 ### `~/tech-stack`
 
+**Languages**
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=39FF14"/>
-  <img src="https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=00e5ff"/>
-  <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=00e5ff"/>
-  <img src="https://img.shields.io/badge/JWT-0d1117?style=for-the-badge&logo=jsonwebtokens&logoColor=e6191f"/>
-  <br>
-  <img src="https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=39FF14"/>
-  <img src="https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=39FF14"/>
-  <img src="https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=00e5ff"/>
-  <br>
-  <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=00e5ff"/>
-  <img src="https://img.shields.io/badge/SQLAlchemy-0d1117?style=for-the-badge&logo=sqlalchemy&logoColor=e6191f"/>
+<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=39FF14&labelColor=0d1117" height="42"/>
+</p>
+
+**Backend & Auth**
+<p align="left">
+<img src="https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=00e5ff&labelColor=0d1117" height="42"/>
+<img src="https://img.shields.io/badge/JWT-0d1117?style=for-the-badge&logo=jsonwebtokens&logoColor=e6191f&labelColor=0d1117" height="42"/>
+<img src="https://img.shields.io/badge/SQLAlchemy-0d1117?style=for-the-badge&logo=sqlalchemy&logoColor=e6191f&labelColor=0d1117" height="42"/>
+</p>
+
+**Frontend**
+<p align="left">
+<img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=00e5ff&labelColor=0d1117" height="42"/>
+</p>
+
+**Data / ML / CV**
+<p align="left">
+<img src="https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=39FF14&labelColor=0d1117" height="42"/>
+<img src="https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=39FF14&labelColor=0d1117" height="42"/>
+<img src="https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge&logo=plotly&logoColor=39FF14&labelColor=0d1117" height="42"/>
+<img src="https://img.shields.io/badge/scikit--learn-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=00e5ff&labelColor=0d1117" height="42"/>
+<img src="https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=00e5ff&labelColor=0d1117" height="42"/>
+</p>
+
+**Database**
+<p align="left">
+<img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=00e5ff&labelColor=0d1117" height="42"/>
+</p>
+
+**`$ whats_next --queue`**
+<p align="left">
+<img src="https://img.shields.io/badge/RAG-learning-e6191f?style=for-the-badge&logo=databricks&logoColor=e6191f&labelColor=0d1117" height="42"/>
+<img src="https://img.shields.io/badge/DSA-active-39FF14?style=for-the-badge&logo=leetcode&logoColor=39FF14&labelColor=0d1117" height="42"/>
 </p>
 
 ---
