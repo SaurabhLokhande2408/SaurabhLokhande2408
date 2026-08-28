@@ -1,22 +1,6 @@
 <div align="center">
 
-<svg width="90" height="90" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" style="filter: drop-shadow(0 0 10px #00E5FF) drop-shadow(0 0 22px #00B8D9);">
-  <circle cx="50" cy="50" r="46" fill="#0d1117" stroke="#00E5FF" stroke-width="2"/>
-  <circle cx="50" cy="50" r="34" fill="none" stroke="#00B8D9" stroke-width="3"/>
-  <circle cx="50" cy="50" r="22" fill="none" stroke="#00E5FF" stroke-width="2"/>
-  <g stroke="#00E5FF" stroke-width="3">
-    <line x1="50" y1="16" x2="50" y2="26"/>
-    <line x1="50" y1="74" x2="50" y2="84"/>
-    <line x1="16" y1="50" x2="26" y2="50"/>
-    <line x1="74" y1="50" x2="84" y2="50"/>
-    <line x1="27" y1="27" x2="34" y2="34"/>
-    <line x1="66" y1="66" x2="73" y2="73"/>
-    <line x1="73" y1="27" x2="66" y2="34"/>
-    <line x1="34" y1="66" x2="27" y2="73"/>
-  </g>
-  <circle cx="50" cy="50" r="10" fill="#E6FFFF"/>
-  <circle cx="50" cy="50" r="5" fill="#ffffff"/>
-</svg>
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iOTAiIGhlaWdodD0iOTAiIHZpZXdCb3g9IjAgMCAxMDAgMTAwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogIDxkZWZzPgogICAgPGZpbHRlciBpZD0iZ2xvdyIgeD0iLTUwJSIgeT0iLTUwJSIgd2lkdGg9IjIwMCUiIGhlaWdodD0iMjAwJSI+CiAgICAgIDxmZUdhdXNzaWFuQmx1ciBzdGREZXZpYXRpb249IjMiIHJlc3VsdD0iYmx1ciIvPgogICAgICA8ZmVNZXJnZT4KICAgICAgICA8ZmVNZXJnZU5vZGUgaW49ImJsdXIiLz4KICAgICAgICA8ZmVNZXJnZU5vZGUgaW49IlNvdXJjZUdyYXBoaWMiLz4KICAgICAgPC9mZU1lcmdlPgogICAgPC9maWx0ZXI+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSIxMDAiIGhlaWdodD0iMTAwIiBmaWxsPSIjMGQxMTE3Ii8+CiAgPGcgZmlsdGVyPSJ1cmwoI2dsb3cpIj4KICAgIDxjaXJjbGUgY3g9IjUwIiBjeT0iNTAiIHI9IjQ2IiBmaWxsPSIjMGQxMTE3IiBzdHJva2U9IiMwMEU1RkYiIHN0cm9rZS13aWR0aD0iMiIvPgogICAgPGNpcmNsZSBjeD0iNTAiIGN5PSI1MCIgcj0iMzQiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzAwQjhEOSIgc3Ryb2tlLXdpZHRoPSIzIi8+CiAgICA8Y2lyY2xlIGN4PSI1MCIgY3k9IjUwIiByPSIyMiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDBFNUZGIiBzdHJva2Utd2lkdGg9IjIiLz4KICAgIDxnIHN0cm9rZT0iIzAwRTVGRiIgc3Ryb2tlLXdpZHRoPSIzIj4KICAgICAgPGxpbmUgeDE9IjUwIiB5MT0iMTYiIHgyPSI1MCIgeTI9IjI2Ii8+CiAgICAgIDxsaW5lIHgxPSI1MCIgeTE9Ijc0IiB4Mj0iNTAiIHkyPSI4NCIvPgogICAgICA8bGluZSB4MT0iMTYiIHkxPSI1MCIgeDI9IjI2IiB5Mj0iNTAiLz4KICAgICAgPGxpbmUgeDE9Ijc0IiB5MT0iNTAiIHgyPSI4NCIgeTI9IjUwIi8+CiAgICAgIDxsaW5lIHgxPSIyNyIgeTE9IjI3IiB4Mj0iMzQiIHkyPSIzNCIvPgogICAgICA8bGluZSB4MT0iNjYiIHkxPSI2NiIgeDI9IjczIiB5Mj0iNzMiLz4KICAgICAgPGxpbmUgeDE9IjczIiB5MT0iMjciIHgyPSI2NiIgeTI9IjM0Ii8+CiAgICAgIDxsaW5lIHgxPSIzNCIgeTE9IjY2IiB4Mj0iMjciIHkyPSI3MyIvPgogICAgPC9nPgogICAgPGNpcmNsZSBjeD0iNTAiIGN5PSI1MCIgcj0iMTAiIGZpbGw9IiNFNkZGRkYiLz4KICAgIDxjaXJjbGUgY3g9IjUwIiBjeT0iNTAiIHI9IjUiIGZpbGw9IiNmZmZmZmYiLz4KICA8L2c+Cjwvc3ZnPgo=" width="90" alt="arc reactor"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:111827,100:00b8d9&height=190&section=header&text=SAURABH%20LOKHANDE&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%C2%B7%20Full-Stack%20%C2%B7%20AI%2FML&descAlignY=62&descSize=18&descColor=9CA3AF"/>
 
