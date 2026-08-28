@@ -1,81 +1,97 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=3000&pause=1000&color=F7B801&center=true&vCenter=true&width=900&lines=SAURABH+LOKHANDE;BUILDS+BY+DAY.+BREAKS+BUGS+BY+NIGHT.;BACKEND+%2B+DEVOPS+%2B+SYSTEM+INTEGRATION;TEAM+SYNERGY+%7C+HACKATHON+OPERATIVE" alt="Typing SVG" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:8B0000,100:FFD700&height=200&section=header&text=WELCOME%20TO%20THE%20BATCAVE&fontSize=40&fontColor=FFD700&animation=fadeIn&fontAlignY=38"/>
-</p>
+<svg width="140" height="170" viewBox="0 0 140 170" xmlns="http://www.w3.org/2000/svg">
+  <line x1="70" y1="0" x2="70" y2="24" stroke="#e5e5e5" stroke-width="1.5"/>
+  <g transform="translate(30,24)">
+    <!-- pixel spiderman, 8px grid -->
+    <rect x="24" y="0" width="8" height="8" fill="#111"/>
+    <rect x="32" y="0" width="16" height="8" fill="#111"/>
+    <rect x="16" y="8" width="48" height="8" fill="#dc2626"/>
+    <rect x="8" y="16" width="64" height="8" fill="#dc2626"/>
+    <rect x="8" y="24" width="16" height="8" fill="#dc2626"/>
+    <rect x="24" y="24" width="8" height="8" fill="#fff"/>
+    <rect x="32" y="24" width="16" height="8" fill="#dc2626"/>
+    <rect x="48" y="24" width="8" height="8" fill="#fff"/>
+    <rect x="56" y="24" width="16" height="8" fill="#dc2626"/>
+    <rect x="8" y="32" width="16" height="8" fill="#dc2626"/>
+    <rect x="24" y="32" width="8" height="8" fill="#111"/>
+    <rect x="32" y="32" width="16" height="8" fill="#111"/>
+    <rect x="48" y="32" width="8" height="8" fill="#111"/>
+    <rect x="56" y="32" width="16" height="8" fill="#dc2626"/>
+    <rect x="16" y="40" width="48" height="8" fill="#dc2626"/>
+    <rect x="16" y="48" width="8" height="8" fill="#1d4ed8"/>
+    <rect x="24" y="48" width="24" height="8" fill="#1d4ed8"/>
+    <rect x="48" y="48" width="16" height="8" fill="#1d4ed8"/>
+    <rect x="0" y="56" width="24" height="8" fill="#1d4ed8"/>
+    <rect x="24" y="56" width="8" height="8" fill="#dc2626"/>
+    <rect x="32" y="56" width="16" height="8" fill="#dc2626"/>
+    <rect x="48" y="56" width="8" height="8" fill="#dc2626"/>
+    <rect x="56" y="56" width="24" height="8" fill="#1d4ed8"/>
+    <rect x="0" y="64" width="8" height="8" fill="#1d4ed8"/>
+    <rect x="24" y="64" width="8" height="16" fill="#1d4ed8"/>
+    <rect x="48" y="64" width="8" height="16" fill="#1d4ed8"/>
+    <rect x="72" y="64" width="8" height="8" fill="#1d4ed8"/>
+    <rect x="16" y="80" width="16" height="8" fill="#1d4ed8"/>
+    <rect x="48" y="80" width="16" height="8" fill="#1d4ed8"/>
+  </g>
+</svg>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/ALTER%20EGO-Batman-000000?style=for-the-badge&logo=&logoColor=FFD700&labelColor=1a1a1a"/>
-  <img src="https://img.shields.io/badge/AGILITY-Spider--Man-CC0000?style=for-the-badge&labelColor=1a1a1a"/>
-  <img src="https://img.shields.io/badge/TECH-Iron%20Man-FFD700?style=for-the-badge&labelColor=1a1a1a"/>
-</p>
+<br>
 
-<h3 align="center">💻 "Some are born heroes. I compile mine." 💻</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1500&color=39FF14&center=true&vCenter=true&width=560&lines=%24+whoami;saurabh_lokhande+%E2%80%94+backend+%2B+full-stack+developer;%24+status;building.+learning.+shipping." alt="typing-svg" />
 
----
+</div>
 
-### 🦇 THE ORIGIN STORY
+<br>
 
-```yaml
-identity:
-  name: "Saurabh Lokhande"
-  codename: "Kaizen"
-  role: "First-Year B.Tech CSE @ RMD Sinhgad School of Engineering (SPPU, Pune)"
-  squad: "Team Synergy"
-  mission: "Backend, DevOps & System Integration"
-  side_quest: "Building a startup while everyone else is still debugging Hello World"
-  arsenal: [React, FastAPI, JWT, Python, PostgreSQL, scikit-learn]
-  status: "Currently online. Currently shipping."
+<table>
+<tr>
+<td width="140" align="center">
+<img src="YOUR_PHOTO_URL_HERE" width="120" height="120" style="border-radius:6px; border:1px solid #333;"/>
+</td>
+<td>
+
+```bash
+$ cat about.txt
+> Second-year B.Tech CSE student (SPPU)
+> Working towards a career in AI/ML
+> Backend + full-stack developer, builds projects with APIs and ML
+> Actively practicing DSA
 ```
 
----
+</td>
+</tr>
+</table>
 
-### ⚡ POWERS & ABILITIES
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,react,postgres,git,github,docker,linux,vscode,figma&theme=dark" />
-</p>
-
-| Suit | Power | Real-World Translation |
-|---|---|---|
-| 🦇 **Batman** | Prep. Strategy. No excuses. | System design, architecture, DevOps discipline |
-| 🕷️ **Spider-Man** | Fast reflexes, sticks to everything | Full-stack agility, rapid hackathon builds |
-| 🦾 **Iron Man** | Builds his own tech from scratch | Backend engineering, JWT auth, ML pipelines |
+> Replace `YOUR_PHOTO_URL_HERE` with a link to your photo (or a local path like `./assets/photo.png` after uploading it to the repo).
 
 ---
 
-### 📊 THE STARK INDUSTRIES DASHBOARD
+### `~/tech-stack`
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SaurabhLokhande2408&show_icons=true&theme=dracula&border_color=FFD700&bg_color=0d1117&title_color=FFD700&icon_color=CC0000"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=SaurabhLokhande2408&theme=dark&hide_border=true&background=0d1117&ring=FFD700&fire=CC0000&currStreakLabel=FFD700"/>
-</p>
+```bash
+languages    : Python
+frameworks   : FastAPI, React
+auth         : JWT
+data / ml    : NumPy, Pandas, Matplotlib, scikit-learn
+database     : PostgreSQL, SQLAlchemy
+```
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaurabhLokhande2408&theme=react-dark&bg_color=0d1117&color=FFD700&line=CC0000&point=FFFFFF"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,react,postgres,git,github&theme=dark"/>
 </p>
 
 ---
 
-### 🛰️ CURRENT MISSIONS
+### `~/github-stats`
 
-- 🔭 Deploying cross-modal satellite image retrieval for **ISRO PS11 (Bharatiya Antariksh Hackathon)**
-- 🏗️ Shipping full-stack builds with **Team Synergy**
-- 🚀 Prototyping a startup on the side — because one job wasn't enough for a hero
-- 🌱 Leveling up ML/backend skills, one commit at a time
+<p align="left">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SaurabhLokhande2408&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117"/>
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=SaurabhLokhande2408&theme=chartreuse-dark&hide_border=true&background=0d1117"/>
+</p>
 
 ---
 
-### 📡 CONTACT THE JUSTICE LEAGUE
+### `~/connect`
 
-<p align="center">
-  <a href="https://github.com/SaurabhLokhande2408"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFD700"/></a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,50:8B0000,100:0d1117&height=120&section=footer"/>
-</p>
-
-<p align="center"><i>⚡ "It's not the suit. It's the code inside it." ⚡</i></p>
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=39FF14)](https://github.com/SaurabhLokhande2408)
