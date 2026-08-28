@@ -65,7 +65,7 @@ Currently learning
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-kaizen-e9b0.vercel.app/api?username=SaurabhLokhande2408&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=00B8D9&icon_color=00B8D9&text_color=C9D1D9&cache_seconds=1800"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SaurabhLokhande2408&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=00B8D9&icon_color=00B8D9&text_color=C9D1D9"/>
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=SaurabhLokhande2408&hide_border=true&background=0D1117&ring=00B8D9&fire=00B8D9&currStreakLabel=00B8D9&currStreakNum=FFFFFF&sideNums=C9D1D9&sideLabels=C9D1D9&dates=8B949E"/>
 
 <img src="https://leetcard.jacoblin.cool/Saurabh_Lokhande?theme=dark&font=JetBrains%20Mono&ext=heatmap"/>
